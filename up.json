@@ -1,0 +1,9 @@
+{
+  "name": "capterra-proxy",
+  "lambda": {
+    "memory": 1024
+  },
+  "regions": [
+    "us-east-1"
+  ]
+}
