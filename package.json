@@ -9,7 +9,6 @@
     "debug": "~2.6.9",
     "express": "^4.17.1",
     "lodash": "^4.17.15",
-    "promise": "^8.0.3",
     "request": "^2.88.0",
     "request-promise": "^4.2.5"
   }
